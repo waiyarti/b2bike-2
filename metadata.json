@@ -1,0 +1,7 @@
+{
+  "name": "Copy of B2Bike & Co - ERP Eco-Tech",
+  "description": "A comprehensive SaaS ERP for a B2B bike rental company based in Lille, featuring real-time CO2 tracking, AI-powered diagnostics, CRM with interactive map, and advanced fleet management.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
